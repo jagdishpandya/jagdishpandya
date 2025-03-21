@@ -5,7 +5,7 @@
 - 📫 How to reach me  - jagdishpandya@yahoo.com
 - 😄 Pronouns: He
 - ⚡ Fun fact: Bash aside, I'm a fan of books, birds and movies ...
-- Linkedin : www.linkedin.com/in/jagdish-pandya-93a97277
+-  Linkedin : www.linkedin.com/in/jagdish-pandya-93a97277
 <!---
 jagdishpandya/jagdishpandya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
