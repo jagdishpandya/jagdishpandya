@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning DevOps.
 - 💞️ I’m looking to collaborate on Linux automation tasks.
 - 📫 How to reach me: jagdishpandya@yahoo.com
-- 😄 Pronouns: He/Him (Adding "Him" for clarity)
-- ⚡ Fun fact: Bash aside, I'm a fan of books, birds, and movies... (Minor punctuation improvement)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: Bash aside, I'm a fan of books, birds, and movies...
 - 🔗 LinkedIn: [www.linkedin.com/in/jagdish-pandya-93a97277](www.linkedin.com/in/jagdish-pandya-93a97277)
 -  Feel free to reach out if you have interesting Linux automation projects!
 
